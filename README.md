@@ -20,7 +20,7 @@ Este documento describe el proceso llevado a cabo para transformar el archivo `1
 
 5. **Eliminación de Símbolos No Deseados**:
    - Utilicé la siguiente fórmula para eliminar los símbolos no deseados de la lista:
-      =REGEXREPLACE(A1, "[╝┤\xE2\x96\x84\xE2\x96\x92]", "")
+      =REGEXREPLACE(A1; "[╝┤\xE2\x96\x84\xE2\x96\x92]", "")
    - Esta fórmula se aplicó a toda la columna de datos, asegurando que todos los símbolos especificados fueran eliminados.
 
 6. **Revisión Final**:
