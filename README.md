@@ -1,4 +1,4 @@
-# DESAFIO TECNICO - SOTO N.
+# DESAFÍO TÉCNICO - SOTO N.
 ## Procesamiento de Archivos
 
 Este documento detalla el proceso llevado a cabo para transformar los archivos propuestos, cumpliendo con las especificaciones dadas. El objetivo fue limpiar y formatear los datos de acuerdo a los modelos proporcionados.
