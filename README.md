@@ -32,7 +32,3 @@ Este documento describe el proceso llevado a cabo para transformar el archivo `1
 
 - Google Sheets: Para la edición y procesamiento de los datos.
 - Funciones de Google Sheets: Como `REGEXREPLACE`, `BUSCAR Y REEMPLAZAR`, y formateo de celdas.
-
-## Conclusión
-
-Los datos del archivo `1_ford TRABAJAR.xlsx` fueron procesados y transformados satisfactoriamente, cumpliendo con todas las especificaciones requeridas. El archivo resultante ahora está listo para su uso en el sistema.
