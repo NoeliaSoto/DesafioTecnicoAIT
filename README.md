@@ -7,16 +7,16 @@ Este documento describe el proceso llevado a cabo para transformar el archivo `1
 ## Pasos Realizados
 
 1. **Configuración Regional**:
-   - Configuré la hoja de cálculo en Google Sheets para que utilizara la región Argentina. Esto asegura que los formatos de número y moneda sean correctos.
+   - Configuré la hoja de cálculo en Google Sheets para que utilizara la región Argentina.
 
 2. **Navegación de Datos**:
    - Revisé todos los datos para identificar filas o columnas vacías y datos duplicados, asegurando que el archivo estuviera limpio antes de realizar modificaciones.
 
 3. **Eliminar Espacios en Blanco**:
-   - Utilicé la función de "Buscar y Reemplazar" para eliminar todos los espacios en blanco. Esto se realizó buscando el espacio y reemplazándolo con nada, asegurando que no hubiera espacios entre los códigos.
+   - Utilicé la función de "Buscar y Reemplazar" para eliminar todos los espacios en blanco. Esto se realizó buscando el espacio y reemplazándolo con " ", asegurando que no hubiera espacios entre los códigos.
 
 4. **Formateo de Precios**:
-   - Para el precio, revisé que la cantidad de dígitos fuera correcta en comparación con el modelo. En caso de que el formato fuera diferente, eliminé los últimos 4 ceros y añadí una coma antes de los últimos dos dígitos, utilizando una fórmula personalizada para realizar esta tarea.
+   - Para el precio, revisé que la cantidad de dígitos fuera correcta en comparación con el modelo. Cambié el formato del número para que tenga dos decimales. 
 
 5. **Eliminación de Símbolos No Deseados**:
    - Utilicé la siguiente fórmula para eliminar los símbolos no deseados de la lista:
