@@ -160,8 +160,4 @@ Este documento detalla el proceso llevado a cabo para transformar los archivos p
 - Google Sheets: Para la edición y procesamiento de los datos.
 - Funciones de Google Sheets: Como `REGEXEXTRACT`, y herramientas de formato.
 
----
 
-## Conclusión
-
-Los archivos `HARD.csv`, `1_ford TRABAJAR.xlsx`, `RASA.txt`, y `ANAEROBICOS.xlsx` fueron procesados y transformados de acuerdo a las especificaciones requeridas, resultando en archivos limpios y formateados, listos para su uso en el sistema.
